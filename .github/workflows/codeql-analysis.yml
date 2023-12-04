@@ -52,4 +52,4 @@ jobs:
     #   make release
 
     - name: Perform CodeQL 
-      uses: github/codeql-action/
+      uses: github/codeql-action/file franno77/repo
