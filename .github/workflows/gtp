@@ -1,1 +1,19 @@
 https://github.com/AntonioCiolino/AutoGPT-Zapier/tree/main
+Run actions/checkout@v3
+Syncing repository: Significant-Gravitas/AutoGPT
+Getting Git version info
+Working directory is '/home/runner/work/AutoGPT/AutoGPT'
+/usr/bin/git version
+git version 2.43.0
+Temporarily overriding HOME='/home/runner/work/_temp/6c3094ab-f036-467c-a804-2301a27bf5b4' before making global git config changes
+Adding repository directory to the temporary git global config as a safe directory
+/usr/bin/git config --global --add safe.directory /home/runner/work/AutoGPT/AutoGPT
+Deleting the contents of '/home/runner/work/AutoGPT/AutoGPT'
+Initializing the repository
+Disabling automatic garbage collection
+Setting up auth
+Fetching the repository
+Determining the checkout info
+Checking out the ref
+/usr/bin/git log -1 --format='%H'
+'f00e2e3aa84e8003d51feae32c17f8cb0ee7b564'
